@@ -2,4 +2,4 @@
 
 my first repo on here
 
-I love :pizza: . 
+I love :pizza: and :apple:
